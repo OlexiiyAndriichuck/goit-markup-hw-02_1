@@ -42,6 +42,15 @@
     word-wrap: break-word;
 }
 
+.menu-contacts:hover,
+.menu-contacts:focus {
+    color: #404BBF
+}
+.menu-link:hover,
+.menu-link:focus {
+    color: #404BBF
+}
+
 /*===== / HEADER SECTION/ ======*/
 
 body {
